@@ -65,7 +65,7 @@
 <details>
 <summary> <strong>
   1.home/list에서 조건조회를 하게되면 첫post이외 나머지 post의 img파일이 조회가 되지않음.</strong> </summary>
-  해결 진행중 <br>
+  해결 진행중! <br>
 </details>
 
   
